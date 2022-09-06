@@ -45,19 +45,19 @@ function multiply(a, b) {
 ## Work experience:
 
 1. 2008 - Hardware Sales Manager
-1. 2009 - Start-up newspaper "Reklamka"
-1. 2010 - Start-up "Bizones"
-1. 2011-2019 - Internet shop belorusskiy-trikotazh.ru
-1. 2019-2021 - Freelance
-1. 2021 - Shop Pepa.by
+2. 2009 - Start-up newspaper "Reklamka"
+3. 2010 - Start-up "Bizones"
+4. 2011-2019 - Internet shop [belorusskiy-trikotazh.ru](https://belorusskiy-trikotazh.ru)
+5. 2019-2021 - Freelance
+6. 2021 - Shop [pepa.by](https://pepa.by)
 
 ---
 
 ## Education:
 
 1. 2007 - Secondary School
-1. 2014 - Brest State Technical University: **Marketing Specialist**
-1. 2022 - RS Schools Course: **JavaScript/Front-end - Stage 1** _(in progress)_
+2. 2014 - Brest State Technical University: **Marketing Specialist**
+3. 2022 - RS Schools Course: **JavaScript/Front-end - Stage 1** _(in progress)_
 
 ---
 
