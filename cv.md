@@ -57,4 +57,12 @@ function multiply(a, b) {
 
 1. 2007 - Secondary School
 1. 2014 - Brest State Technical University: **Marketing Specialist**
-1. 2022 - RS Schools Course **"JavaScript/Front-end - Stage 1"** _(in progress)_
+1. 2022 - RS Schools Course: **JavaScript/Front-end - Stage 1** _(in progress)_
+
+---
+
+## Languages:
+
+- **Russian** - Native
+- **Polish** - Intermediate
+- **English** - A1 _(in progress)_
